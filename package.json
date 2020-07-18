@@ -19,6 +19,7 @@
   "homepage": "https://github.com/karynclarke/note-taker#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "save": "^2.4.0",
     "util": "^0.12.3"
   }
 }

@@ -1,7 +1,7 @@
 // Dependencies
 // =============================================================
-var express = require("express");
 var path = require("path");
+var express = require("express");
 
 const apiRoutes = require("./routes/apiRoutes");
 const htmlRoutes = require("./routes/htmlRoutes");
