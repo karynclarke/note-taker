@@ -3,7 +3,7 @@ const router = require("express").Router();
 // module.exports = function(app) 
 // HTML GET Requests
 
-router.get("/index", function(req, res) {
+router.get("/", function(req, res) {
     res.sendFile(path.join(__dirname, "../public/index.html"));
 });
 
